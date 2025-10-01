@@ -15,7 +15,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
-        <li class="nav-item"><a class="nav-link" href="index.html">Avaleht</a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php">Avaleht</a></li>
         <li class="nav-item"><a class="nav-link active" href="tooted.php">Tooted</a></li>
         <li class="nav-item"><a class="nav-link" href="kalkulaator.php">Kalkulaator</a></li>
         <li class="nav-item"><a class="nav-link" href="kontakt.php">Kontakt</a></li>
